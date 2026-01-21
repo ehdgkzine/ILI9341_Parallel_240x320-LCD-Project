@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/10ee94a4-0641-4390-a198-8dacc9fa0aa3
 # ILI9341_Parallel_240x320
 
 
@@ -8,3 +10,7 @@
 
 
 # ILI9341_Parallel_240x320-LCD-Project
+
+## 정상 동작시 LCD 화면 실행 영상
+
+Uploading ILI9341_Parallel.mp4…
